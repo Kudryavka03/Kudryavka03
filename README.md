@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kudryavka03&show_icons=true&count_private=true" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudryavka03&layout=compact" />
 <!--
 **Kudryavka03/Kudryavka03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
